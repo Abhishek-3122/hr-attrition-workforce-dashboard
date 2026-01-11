@@ -86,7 +86,7 @@ Excel files and analysis screenshots are available in the `Data_Analysis` folder
 The project is supported by detailed SAP SuccessFactors documentation,
 available in the `Case_Study_Documentation` folder, including:
 - SAP_SuccessFactors_Employee_Central_Case_Study_Background
-- AS_IS_vs_TO_BE_HR_Process_OvervieW
+- AS_IS_vs_TO_BE_HR_Process_Overview
 - SAP_SuccessFactors_Employee_Central_Functional_Overview
 - SAP_SuccessFactors_Talent_Modules_Functional_Overview
 - Compensation_Management_and_System_Integration_Overview
